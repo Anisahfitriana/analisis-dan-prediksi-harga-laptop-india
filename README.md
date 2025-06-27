@@ -10,4 +10,4 @@ keputusan pembelian dan bagi penjual untuk optimasi strategi penetapan harga.
 - [`TubesDaminKelompok8.ipynb`](./tubes_damin_kelompok8.ipynb) --> Berisikan proses EDA, preprocessing, training model, dan evaluasi
 
 # 🌐DASHBOARD 
-Untuk Dashboard bisa diakses di: 🌐 [Klik di sini untuk membuka dashboard](https://tubesdaminkel8.streamlit.app/)
+Untuk Dashboard bisa diakses di:[Klik di sini untuk membuka dashboard](https://tubesdaminkel8.streamlit.app/)
